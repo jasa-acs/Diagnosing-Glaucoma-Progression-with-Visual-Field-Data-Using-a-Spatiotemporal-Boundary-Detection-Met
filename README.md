@@ -21,7 +21,9 @@ We have permission to use the data from the principal investigator on the study,
 The first six rows of the dataset are presented below:
 
 | ---------------|------------------|------------------|------------------|
+
 | Visit           | DLS        | Time        | Location         |
+
 | ---------------|------------------|------------------|------------------|
 | 1 | 25           | 0   | 1 |
 | 2 | 23    | 126   | 1 |
