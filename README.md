@@ -36,7 +36,7 @@ The analysis was implemented using R version 3.3.3. All analyses were completed 
 ### Reproducibility
 1. Install _womblR_ package:
   * Follow the instructions of the script Installation.R that is located in the ‘example_code’ directory.
-  * Explore the package [vignette](https://cran.r- project.org/web/packages/womblR/vignettes/womblR-example.html) for an introduction to the package.
+  * Explore the package [vignette](https://cran.r-project.org/web/packages/womblR/vignettes/womblR-example.html) for an introduction to the package.
 
 2. Analysis of Visual Field Data and Glaucoma Progression Risk
   * The code provided allows the user to reproduce Tables 1 and 2 and Figures 2, 3,
