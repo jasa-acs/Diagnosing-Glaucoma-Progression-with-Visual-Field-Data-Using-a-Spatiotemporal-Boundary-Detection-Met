@@ -27,7 +27,7 @@ The directory ‘example_code’ provided with the submission contains scripts t
 ### Description 
 As of this form the current version of the R package _womblR_ is version 1.0.3 (Licensed under GPL 3.0). Supporting software requirements for womblR are detailed on its CRAN website [page](https://cran.r-project.org/web/packages/womblR/index.html). In particular, to reproduce the results from the manuscript will require the following packages installed: _coda_, _classInt_, _devtools_, _Matrix_, _msm_ (>= 1.0.0), _mvtnorm_ (>=1.0-0), _pROC_, _Rcpp_ (>=0.12.9), and _RcppArmadillo_ (0.7.500.0.0).
 
-**NOTE:** Any non-Windows or OS X users will have to compile the package. To compile a package that contains C++ code, and in particular using RcppArmadillo, requires a recent version of gcc (see the RcppArmadillo [webpage](https://cran.r- project.org/web/packages/RcppArmadillo/index.html) for details). If a new enough version of gcc is not present the package will not compile and the analyses detailed within will not be possible.
+**NOTE:** Any non-Windows or OS X users will have to compile the package. To compile a package that contains C++ code, and in particular using RcppArmadillo, requires a recent version of gcc (see the RcppArmadillo [webpage](https://cran.r-project.org/web/packages/RcppArmadillo/index.html) for details). If a new enough version of gcc is not present the package will not compile and the analyses detailed within will not be possible.
  
 ## Instructions for Use
 
